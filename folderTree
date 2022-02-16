@@ -1,0 +1,27 @@
+.
+├── folderTree
+├── Task-1.1
+│   ├── DAY2&3_report.pdf
+│   ├── Day2&3_TC3.sce
+│   ├── Day4_SystemEquation_modelling.zcos
+│   ├── Day5_impulse response.zcos
+│   ├── Day5_plzr.sce
+│   ├── Readme.md
+│   └── README.md
+├── Task-1.2
+│   ├── Day6&7.m
+│   ├── Day6&7_PD_Controller.zcos
+│   ├── Day6&7.pdf
+│   ├── Day8.m
+│   ├── Day8.pdf
+│   ├── Day8_PID_Controller.zcos
+│   ├── Day9.m
+│   ├── Day9.pdf
+│   ├── Readme.md
+│   └── README.md
+└── Task-1.3
+    ├── Code_arduino.ino
+    ├── Readme.md
+    └── README.md
+
+3 directories, 21 files
