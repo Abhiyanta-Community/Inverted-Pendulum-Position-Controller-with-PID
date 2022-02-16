@@ -1,6 +1,2 @@
-
-
-
-Documentation is included
-
-The arduino code is included
+### Inverted_pendulum_PID: 
+The arduino code is includes Arduino code file for Hardware implementation
