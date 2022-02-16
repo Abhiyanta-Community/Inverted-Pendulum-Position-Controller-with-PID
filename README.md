@@ -2,10 +2,11 @@
 ### Scilab and Hardware
 * Owner: 
   Abhiyanta Community
-* Team Members:
-    Devanshi Chauhan;
-    Jainam Shah;
-    Harsh Maghnani; 
+* Team Members: Bhavina Chechani;
+Bhumika Chechani;
+Harekrishna Ray;
+Jay Mistry
+
 * We are Always Available for Innovators :) Contact us : abhiyanta.ind@gmail.com 
 
 # Overview
