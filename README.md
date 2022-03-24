@@ -13,7 +13,7 @@ Jay Mistry
 # Overview
 Proportional-Integral-Derivative (PID) control is the most common control algorithm used in industry and has been universally accepted in industrial control. The popularity of PID controllers can be attributed partly to their robust performance in a wide range of operating conditions and partly to their functional simplicity, which allows engineers to operate them in a simple, straight forward manner.
 
-As the name suggests, PID algorithm consists of three basic coefficients; proportional, integral and derivative which are varied to get optimal response. The task is to implement a PID controller for an inverted pendulum system using Scilab nad on **hardware**.
+As the name suggests, PID algorithm consists of three basic coefficients; proportional, integral and derivative which are varied to get optimal response. The task is to implement a PID controller for an inverted pendulum system using Scilab and on **hardware**.
 
 
 # Task Document
